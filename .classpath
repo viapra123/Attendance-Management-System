@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/AttendanceMS_with_Prepared2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jdbc-2.7.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="dist/lib/rs2xml.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

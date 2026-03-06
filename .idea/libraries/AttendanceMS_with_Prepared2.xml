@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AttendanceMS_with_Prepared2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AttendanceMS_with_Prepared2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
